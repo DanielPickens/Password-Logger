@@ -1,12 +1,13 @@
 # Password-Logger
 My version of the password logger program
 
-the password hijacking tool
+
 
 TOOL CAN:
 
-sniff cookie and form passwords from open wifi in monitor mode
-one-click to launch a browser with sniffed brownie
+It specifically sniffs for cookie and form passwords data from open wifi in monitor mode
+one-click to launch a browser with sniffed brownie.
+
 This tool does not require ARP attack, just silent sniffing, thus invisible to victim. Besides, the sniffing does not require one to associate AP, making it even more diffcult to detect.
 
 #Requirements:
