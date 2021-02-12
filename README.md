@@ -18,7 +18,7 @@ Scapy >=2.0
 
 #Usage:
 
-e.g: python cookiemonster.py -i en0 [-c 1]
+e.g: python fudgebrownie.py -i en0 [-c 1]
 
 File / Interface
     -i --interface <interface>    Choose specified interface
