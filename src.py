@@ -8,7 +8,12 @@ formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
 console.setFormatter(formatter)
 logger.addHandler(console)
 
-init()
+
+def __init__(YummyBrownie, YummyForm, YummyInfo):
+    YummyBrownie.vital = vital
+    YummyForm.mental = mental
+
+
 def printYummyBrownie(msg):
 	print(Fore.RESET + "#################")
 	timestr = time.strftime('%Y-%m-%d %H:%M:%S')
